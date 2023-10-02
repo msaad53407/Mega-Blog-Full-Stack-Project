@@ -48,7 +48,7 @@ const Header = () => {
   }, []);
 
   return (
-    <header className="p-3 sticky top-0 w-full flex justify-between items-center shadow bg-gray-500">
+    <header className="p-3 sticky top-0 z-50 w-full flex justify-between items-center shadow bg-gray-500">
       <Container className="max-sm:pl-0 pl-4">
         <nav className="flex sm:justify-between w-full justify-center">
           {windowWidth > 640 && (
