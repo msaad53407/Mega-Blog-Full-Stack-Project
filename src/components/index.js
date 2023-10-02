@@ -12,7 +12,7 @@ import Login from "./Login";
 import Signup from "./Signup";
 import AuthLayout from "./AuthLayout";
 import RealTimeEditor from "./RealTimeEditor/RealTimeEditor";
-import PostForm from "./post-form/postForm";
+import PostForm from "./post-form/PostForm";
 
 export {
   Header,
